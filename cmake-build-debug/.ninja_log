@@ -1,0 +1,19 @@
+# ninja log v5
+1	22	1703165488978844148	CMakeFiles/University.dir/App/Controllers/Major.cpp.o	f5bb6e78cf02beee
+1	236	1703423658353168005	CMakeFiles/University.dir/App/Controllers/MemberAuthenticaion.cpp.o	631f792e0c8dd3d2
+0	43	1703414652697227173	CMakeFiles/University.dir/College.cpp.o	34d6d6bbf595f6fc
+1	571	1703422922347232622	CMakeFiles/University.dir/App/Controllers/Person.cpp.o	810bf02e78e23449
+289	522	1703424005536086700	CMakeFiles/University.dir/App/Controllers/MemberAuthentication.cpp.o	2c3b666feb92423a
+454	726	1703426194036822411	CMakeFiles/University.dir/App/Controllers/MemberAuthentications.cpp.o	1714ce576988a893
+1	447	1703428447670668933	CMakeFiles/University.dir/App/Controllers/TeachingStaff.cpp.o	322a76cb52c807ba
+483	542	1703428447766668563	University	de3e3334bd1207a8
+0	29	1703429174949024583	build.ninja	d3f6c0ea5f0aa71
+1	355	1703428447578669288	CMakeFiles/University.dir/App/Controllers/Student.cpp.o	3951894219b17e9d
+0	415	1703428447638669057	CMakeFiles/University.dir/main.cpp.o	bf4cf4fa4663b190
+1	440	1703428447666668949	CMakeFiles/University.dir/App/Controllers/AdmissionAndRegistrationD.cpp.o	f0a1442c5cd845f4
+1	483	1703428447706668794	CMakeFiles/University.dir/App/Controllers/EmployeesAffairsD.cpp.o	6f688a47140f1f83
+280	289	1703424005304087433	CMakeFiles/University.dir/App/Controllers/University.cpp.o	9ab6cc9862bae306
+1	474	1703428447698668825	CMakeFiles/University.dir/App/Controllers/DepartmentEmployee.cpp.o	7fce699d7c51a8e8
+1	249	1703258695769805251	CMakeFiles/University.dir/App/Controllers/DepartmentEmplyee.cpp.o	57372d17072a6ce6
+1	15	1703165488974844406	CMakeFiles/University.dir/App/Helpres/Enums/Enum.cpp.o	354d7edbc85f2bc6
+2	580	1703422922355232603	CMakeFiles/University.dir/App/Controllers/MaintenanceD.cpp.o	4bbd8e061491a68
